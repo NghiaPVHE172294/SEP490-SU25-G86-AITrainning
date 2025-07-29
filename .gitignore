@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# VSCode settings
+.vscode/
+
+# Training data, models, and logs
+data/
+models/
+ner_training/
+
+# PDF or other large test files
+*.pdf
+
+# Output, cache, temporary files
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environment variable files
+.env
+.env.*
+
+# Ignore Python notebooks checkpoint
+.ipynb_checkpoints/

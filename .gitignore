@@ -12,7 +12,6 @@ venv/
 .vscode/
 
 # Training data, models, and logs
-data/
 models/
 ner_training/
 
